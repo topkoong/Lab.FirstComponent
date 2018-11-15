@@ -45,6 +45,7 @@ body {
   font-size: 1em;
   transition: all 1s ease;
   outline: none;
+  margin-bottom: 2rem;
 }
 
 #counter button:hover {
